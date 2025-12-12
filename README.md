@@ -1,4 +1,4 @@
-Have a try through: https://zhizhou-cao.github.io/Random-Refreshing/
+Have a try through: [https://zhizhou-cao.github.io/Random-Refreshing/](https://zhizhou-cao.github.io/Vibe-Vending/)
 
 This project is made by Purely Vibe Coding.
 
@@ -39,4 +39,4 @@ This project is made by Purely Vibe Coding.
 
 ## 🚀 在线体验 (Live Demo)
 
-👉 **[点击这里访问 (Click Here to Play)](https://zhizhou-cao.github.io/Random-Refreshing/)**
+👉 **[点击这里访问 (Click Here to Play)](https://zhizhou-cao.github.io/Vibe-Vending/)**
